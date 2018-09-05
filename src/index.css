@@ -1,7 +1,7 @@
 /*! Primitive
  * A front end Sass boilerplate
  *
- * Author: Tania Rascia 
+ * Author: Tania Rascia
  */
 /* Variables
  * ===============
@@ -25,7 +25,7 @@
  * 2. Prevent iOS and IE text size adjust after device orientation change,
  *    without disabling user zoom.
  */
- html {
+html {
   -ms-text-size-adjust: 100%;
   /* 2 */
   -webkit-text-size-adjust: 100%;
@@ -243,9 +243,9 @@ h5 {
   h3:not(:first-child) {
     margin-top: 2.5rem; }
   h1 {
-    font-size: 2rem; }
+    font-size: 2.25rem; }
   h2 {
-    font-size: 1.6rem; }
+    font-size: 2rem; }
   h3 {
     font-size: 1.75rem; }
   h4 {
